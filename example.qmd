@@ -8,3 +8,4 @@ editor: visual
 ## Assignment 2 Example Document
 
 This is a simple Quarto QMD file for ETC5513 Assignment 2.
+This is a change made on the main branch to create a merge conflict.
