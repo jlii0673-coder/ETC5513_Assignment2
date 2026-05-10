@@ -1,0 +1,10 @@
+---
+title: "ETC5513 Assignment 2 Example Document"
+format: html
+editor: visual
+---
+
+# ETC5513 Collaborative and Reproducible Practices
+## Assignment 2 Example Document
+
+This is a simple Quarto QMD file for ETC5513 Assignment 2.
